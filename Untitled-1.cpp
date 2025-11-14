@@ -17,6 +17,7 @@ int main() {
     printf("sample changes");
     printf("more changes");
     printf("dev branch changes");
+    printf("another change for sample task branch");
 
     return 0;
 }
