@@ -15,6 +15,7 @@ int main() {
     printf("Final Output: %.4f\n", FinalOutput);
     printf("Name: %s\n", name);
     printf("sample changes");
+    printf("more changes");
 
     return 0;
 }
